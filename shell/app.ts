@@ -1,5 +1,4 @@
 import * as rxjs from 'rxjs';
-// @ts-ignore
 import * as sharedLib  from 'shared-lib';
 
 const container = document.getElementById('container');
